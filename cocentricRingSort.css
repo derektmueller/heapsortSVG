@@ -1,0 +1,15 @@
+
+body {
+    text-align: center;
+}
+svg {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: -100px;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    /* width: 100%; */
+    margin: auto;
+}
